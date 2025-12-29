@@ -1,0 +1,8 @@
+C:\Users\furka\source\repos\final lapse\bin\Debug\final lapse.exe.config
+C:\Users\furka\source\repos\final lapse\bin\Debug\final lapse.exe
+C:\Users\furka\source\repos\final lapse\bin\Debug\final lapse.pdb
+C:\Users\furka\source\repos\final lapse\obj\Debug\final lapse.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\final lapse\obj\Debug\final lapse.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\final lapse\obj\Debug\final lapse.exe
+C:\Users\furka\source\repos\final lapse\obj\Debug\final lapse.pdb
+C:\Users\furka\source\repos\final lapse\obj\Debug\final lapse.exe.config
