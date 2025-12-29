@@ -236,6 +236,7 @@ class Program
                     else { devlet += 10; halk -= 5; } // Reddet (Mütevazı)
                     break;
             }
+            
 
             // ===== SINIRLAMA =====
             if (devlet < 0) devlet = 0;
